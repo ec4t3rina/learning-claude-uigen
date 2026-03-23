@@ -1,0 +1,71 @@
+[     119ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     196ms] Error: ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:21:62)
+    at Object.getCompilationErrors (file:///Users/ecaterina/Developer/learning-claude/uigen/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file:///Users/ecaterina/Developer/learning-claude/uigen/node_modules/next/dist/server/lib/dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file:///Users/ecaterina/Developer/learning-claude/uigen/node_modules/next/dist/server/dev/next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file:///Users/ecaterina/Developer/learning-claude/uigen/node_modules/next/dist/server/dev/next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/ecaterina/Developer/learning-claude/uigen/node_modules/next/dist/server/base-server.js:2619:26)
+[     197ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     243ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     283ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[     310ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[   37185ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   38190ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   39192ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   40195ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   41200ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   46203ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   51207ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   56210ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514
+[   61213ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11514

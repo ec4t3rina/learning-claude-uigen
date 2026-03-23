@@ -1,0 +1,487 @@
+[  330864ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  330967ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  331758ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  331762ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  333138ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  333142ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  422872ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  423794ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  423919ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  424286ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  464001ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  470743ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  471059ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  473688ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  473901ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  480827ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  480954ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  481026ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  483319ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  483477ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  576267ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  582854ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  583027ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  583639ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  583843ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584010ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584188ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584282ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584413ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584487ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584675ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584823ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584915ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  584958ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  585213ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  593972ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  594412ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  594791ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  595153ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  595553ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  595895ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  604136ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  604301ms] [ERROR] ./src/lib/prompts/generation.tsx:21:62
+Parsing ecmascript source code failed
+  19 |
+  20 | **Forbidden patterns — never use these:**
+> 21 | * White cards on gray backgrounds (`bg-white` + `bg-gray-100`)
+     |                                                              ^
+> 22 | * Blue CTA buttons (`bg-blue-500`, `bg-blue-600`)
+     | ^^^^^^^^^^^^^^^^^^^^^
+  23 | * Generic shadows (`shadow`, `shadow-md`, `shadow-lg`) as the only depth cue
+  24 | * `text-gray-500` / `text-gray-600` for secondary text
+  25 | * `rounded` or `rounded-md` as the default shape — use something intentional (sharp, very rounded `rounded-2xl`/`rounded-full`, or asymmetric)
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
