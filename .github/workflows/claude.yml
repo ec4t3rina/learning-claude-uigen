@@ -60,19 +60,18 @@ jobs:
             If needed, you can query the db with the 'sqlite3' cli. 
             If needed, use the mcp_playwright set of tools to launch a browser and interact with the app.
 
-          - mcp_config: |
-              {
-                "mcpServers": {
-                  "playwright": {
-                    "command": "npx",
-                    "args": [
-                      "@playwright/mcp@latest",
-                      "--allowed-origins",
-                      "localhost:3000;cdn.tailwindcss.com;esm.sh"
-                    ]
-                  }
+          mcp_config: |
+            {
+              "mcpServers": {
+                "playwright": {
+                  "command": "npx",
+                  "args": [
+                    "@playwright/mcp@latest",
+                    "--allowed-origins",
+                    "localhost:3000;cdn.tailwindcss.com;esm.sh"
+                  ]
                 }
               }
+            }
         
-        allowed-tools: "Bash(npm*), Bash(sqlite3*), mcp_playwright__browser__snapshot, mcp_playwright__browser__click, mcp_playwright__browser__fill, mcp_playwright__browser__goto, mcp_playwright__browser__wait_for_selector"
-I
+          allowed-tools: "Bash(npm*), Bash(sqlite3*), mcp_playwright__browser__snapshot, mcp_playwright__browser__click, mcp_playwright__browser__fill, mcp_playwright__browser__goto, mcp_playwright__browser__wait_for_selector"
